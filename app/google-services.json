@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531284718524",
+    "project_id": "umco-2e1f2",
+    "storage_bucket": "umco-2e1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531284718524:android:2f6dbe4e5b07753cb231b9",
+        "android_client_info": {
+          "package_name": "com.florinda.umcostore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAK93zLvsV6PBy42x0-8nvnumn_GpcVZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
